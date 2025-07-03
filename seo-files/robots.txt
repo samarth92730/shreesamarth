@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dazzling-frangollo-7f8578.netlify.app/sitemap.xml
